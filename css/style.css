@@ -253,6 +253,7 @@ p {
 
 .dots i {
   color: yellow;
+  display: none;
   font-size: 10px;
   position: absolute;
   border-radius: 50%;
