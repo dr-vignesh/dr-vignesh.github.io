@@ -714,6 +714,7 @@ circle p {
   box-shadow: 0 0 0 4px white,
 }
 
+.timeline .content:nth-child(7) .icon,
 .timeline .content:nth-child(5) .icon,
 .timeline .content:nth-child(3) .icon {
   background: #20C863;
