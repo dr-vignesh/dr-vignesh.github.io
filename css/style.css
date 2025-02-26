@@ -742,6 +742,7 @@ circle p {
   font-weight: 600;
 }
 
+.timeline .content:nth-child(7) span,
 .timeline .content:nth-child(5) span,
 .timeline .content:nth-child(3) span {
   color: #20C863;
