@@ -1075,7 +1075,7 @@ footer .legal {
 
   .grid {
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 50px;
+    grid-gap: 20px;
   }
 
   /*---------services--------*/
